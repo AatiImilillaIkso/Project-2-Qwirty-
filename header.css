@@ -1,0 +1,25 @@
+horizontal nav-list {
+    display: flex;
+  align-items:shrink;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: ;
+
+}
+
+.main {
+  display:flex;
+  align-item:shrink;
+  
+}
+.sub-nav {
+  display:flex;
+  background-color: rgb(170, 126, 126);
+  justify-content: space-between;
+  display: flex;
+  flex-grow: 
+}
+
+@media (min-width: 769px .sub-nav {
+  .full-width and .short-width;
+}
+

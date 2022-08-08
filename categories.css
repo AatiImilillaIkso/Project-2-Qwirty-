@@ -1,0 +1,23 @@
+.categories {
+    display: flex;
+    flex: 0 1 256px;
+flex-direction: column;
+text-align: center;
+padding: 1em
+font-family:'Dosis'
+}
+
+a {
+    text-decoration: none;
+    font-family:'DOSIS';
+    margin-bottom: 5rem;
+    text-align: center;
+    text-transform: uppercase;
+background-color: rgb(53, 53, 153);
+color:white;
+flex-shrink: 20;
+}
+
+a:hover {
+    box-shadow: 0 2px 5px -2px black;
+}
